@@ -1,1 +1,1 @@
-# Heart_failure_detection
+# Heart_failure_prediction
